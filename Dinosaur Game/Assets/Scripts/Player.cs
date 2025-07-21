@@ -37,7 +37,7 @@ public class Player : MonoBehaviour
         {
             direction = Vector3.down;
 
-            if (Input.GetButton("Jump"))
+            if (Input.GetButton("Jump") || Input.GetMouseButtonDown(0))
             {
                 src.GetComponent<AudioSource>().PlayOneShot(jump);
                 direction = Vector3.up * jumpForce; 
