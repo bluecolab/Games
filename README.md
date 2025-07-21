@@ -61,6 +61,16 @@ Check it out here: bluecolab.github.io/Games/ !
 2. Make sure you are in the `react-kiosk`.
 3. Start coding!
 
+## Deployment
+To build the web-build for the react-kiosk we use a WebGL Build.
+1. First setup Unity to be able to make WebGL Builds. See here: https://www.youtube.com/watch?v=X8Njwk4IRo0.
+2. Click on File > Build Settings > WebGL
+3. Make sure your settings are as follows:
+<img src="./image.png" />
+
+4. There should be no texture compression under asset imports. And select 'DXT` compression under 'WebGL'
+5. Click on Build, you can replace the previous build.
+6. Push to GitHub, this will deploy to GitHub pages.
 
 ## File structure
 
