@@ -32,7 +32,7 @@ Dinosaur game is a Google Chrome-inspired game that is themed to Blue CoLab
 
 ### Features
 
-Check it out here: https://bluecolab.github.io/react-kiosk/ !
+Check it out here: bluecolab.github.io/Games/ !
 
 ## Required Software
 
