@@ -58,7 +58,7 @@ Check it out here: bluecolab.github.io/Games/ !
 ## Running locally on computer via Expo Go
 
 1. Open Unity Hub and start the project.
-2. Make sure you are in the `react-kiosk`.
+2. Make sure you are in the `Games`.
 3. Start coding!
 
 ## Deployment
