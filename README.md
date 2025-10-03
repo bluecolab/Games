@@ -58,12 +58,12 @@ Check it out here: bluecolab.github.io/Games/ !
 ## Running locally on computer via Expo Go
 
 1. Open Unity Hub and start the project.
-2. Make sure you are in the `react-kiosk`.
+2. Make sure you are in the `Games`.
 3. Start coding!
 
 ## Deployment
 To build the web-build for the react-kiosk we use a WebGL Build.
-1. First setup Unity to be able to make WebGL Builds. See here: https://www.youtube.com/watch?v=X8Njwk4IRo0.
+1. First setup Unity to be able to make WebGL Builds. See here: https://www.youtube.com/watch?v=X8Njwk4IRo0 as an example.
 2. Click on File > Build Settings > WebGL
 3. Make sure your settings are as follows:
 <img src="./image.png" />
